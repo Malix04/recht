@@ -1,0 +1,85 @@
+Was ich gezielt ergänzen/umstellen würde (für belastbare Ursachen)
+
+Begriffs- und Messkonzept direkt nach der Zielsetzung
+Definiere kurz: Was gilt als Abweichung? (z. B. SLA-Verletzung, P95-Durchlaufzeit, Conformance-Delta) und was ist eine Ursache (behebbare Treiber vs. Rahmenbedingungen). Das verhindert später Symptom-statt-Ursache-Diskussionen. (→ 1.4 „Begriffsabgrenzung & Operationalisierung“).
+
+Process-Mining-Grundlagen als eigenes Unterkapitel
+In „Theoretische Grundlagen“ vor „Abweichungsanalyse“: Event Log/Attribute, Discovery, Conformance Checking und Performance-Analysen. Ohne diesen Block wird die Ableitung aus Daten zu dünn. (→ 2.1 „Process Mining Basics“, dann 2.2 KPI, 2.3 Abweichungen …).
+
+Detektionsschritt explizit machen
+In „Abweichungsanalyse“ eine kleine Pipeline: Kennzahl-Schwellen → Conformance-Alignments/Variant-Vergleich → Liste priorisierter Abweichungen inkl. Häufigkeit & Impact. So entsteht der Trichter, in den du später die Ursachenmethoden einspeist.
+
+Ursachenmethoden: qualitativ + datengetrieben koppeln
+Neben 5-Whys/Fishbone ergänze datenbasierte Root-Cause-Ansätze (attributbasierte Splits, einfache Hypothesentests). Dokumentiere je Abweichung: Hypothese → Evidenz → (Nicht-)Bestätigung. (Bleibt wissenschaftlich und prüfbar.)
+
+Pareto an die Schnittstelle Ursache ↔ Priorisierung ziehen
+Nutze Pareto, um Ursachencluster zu gewichten, und kombiniere das anschließend mit Auswirkungsbewertung (FMEA, Kosten-Nutzen) zu einer klaren Maßnahmen-Reihenfolge. D. h. Pareto nicht nur als Theoriepunkt, sondern als Brücke zwischen 2.3 und 2.4.
+
+Methodik schärfen
+– Formuliere 1–2 Forschungsfragen (z. B. „Wie lässt sich aus Conformance-Abweichungen X in Domäne Y eine verlässliche Ursachenliste ableiten?“).
+– Beschreibe Datenbasis & Qualität (Log-Quellen, Zeitfenster, Missing Data), Interviewleitfaden und Auswertung (Codierung/Triangulation). Das trifft die DHBW-Erwartung an systematisches Vorgehen.
+
+Vorgehensmodell konkretisieren
+Stelle es als Phasenmodell mit Rollen, Inputs/Outputs, Artefakten dar (Checklisten). Z. B. 1) KPI-Ziel & Operationalisierung → 2) Datenaufnahme → 3) Abweichungsdetektion → 4) Hypothesenbildung → 5) Ursachenprüfung → 6) Maßnahme/Business Case → 7) Validierung. (→ 4.2)
+
+Validierung/Limitierungen ergänzen
+Mini-Pilot oder Expertenreview deines Modells + Gütekriterien (Nützlichkeit, Anwendbarkeit, Reproduzierbarkeit) und Threats to Validity. (→ neues 4.3 „Validierung des Vorgehensmodells“).
+
+Formalia nicht vergessen
+Seitenumfang/Balance, Fußnoten nach Leviathan und Vertraulichkeitsvermerk wie in den Richtlinien. (Planst du Interviews/Logs, passt auch der Hinweisblock zu KI-Nutzung/Erklärung ans Ende.)
+
+
+
+1 Einleitung (≈ 2–3)
+1.1 Problemstellung und Ausgangslage im Logistikkontext
+1.2 Zielsetzung der Arbeit und Forschungsfragen
+1.3 Untersuchungsgegenstand, Scope und Abgrenzungen
+1.4 Begriffsabgrenzung und Operationalisierung (Messkonzept für KPI, Abweichung, Ursache)
+1.5 Aufbau der Arbeit
+
+2 Theoretische und methodische Grundlagen (≈ 8–10)
+2.1 Process Mining: Event Logs, Discovery, Conformance, Performance
+2.2 KPI im Logistikumfeld: Zielgrößen, Messniveaus, Schwellen
+2.3 Abweichungsbegriff und -detektion: Soll-Ist, Conformance Checking, Variantenanalyse
+2.4 Ursachenanalyse-Methoden: 5-Why, Ishikawa, hypothesengetriebene Tests, attributbasierte Splits
+2.5 Priorisierung & Auswirkungsbewertung: Pareto, FMEA, Kosten-Nutzen-Abschätzung
+2.6 Stand der Forschung und verwandte Vorgehensmodelle (kurzer Überblick)
+
+3 Forschungsdesign und Vorgehensweise (≈ 4–5)
+3.1 Forschungsansatz (Fallstudie / Mixed Methods) und Gütekriterien
+3.2 Datenbasis & Datenqualität (Quellen, Zeitraum, Vorverarbeitung)
+3.3 Tooling & Infrastruktur (Process-Mining-Werkzeuge, Analyseumgebung)
+3.4 Expert:inneninterviews: Leitfaden, Sampling, Durchführung
+3.5 Auswertungsverfahren: qualitative Codierung & quantitative Analysen
+
+4 Ergebnisse und Entwicklung des Vorgehensmodells (≈ 8–9)
+4.1 Pipeline der Abweichungsdetektion: identifizierte Abweichungen (Häufigkeit, Impact)
+4.2 Ursachencluster & Evidenz: Hypothesen, Tests, Bestätigung/Widerlegung
+4.3 Vorgehensmodell zur Ableitung von Handlungsempfehlungen
+   4.3.1 Phasen (1–7) mit Inputs/Outputs
+   4.3.2 Rollen, Verantwortlichkeiten und Artefakte (Checklisten, Templates)
+   4.3.3 Entscheidungslogik (Scoring, Schwellen, Entscheidungsbaum)
+4.4 Validierung des Vorgehensmodells (Pilot/Expert Review, Kriterien)
+4.5 Beispielhafte Anwendung im Use Case (kurze Demonstration)
+
+5 Diskussion (≈ 2–3)
+5.1 Interpretation der Ergebnisse und Einordnung in die Literatur
+5.2 Nutzenbeitrag für Praxis und Wissenschaft
+5.3 Grenzen, Generalisierbarkeit und Risiken
+
+6 Fazit und Ausblick (≈ 1–2)
+6.1 Zentrale Erkenntnisse
+6.2 Konkrete Handlungsempfehlungen
+6.3 Ausblick (Weiterentwicklung, Transfer auf andere Prozesse)
+
+Backmatter
+
+Literaturverzeichnis (Leviathan-Fußnotenstil)
+
+Anhang
+  A. Interviewleitfaden
+  B. Zusatzanalysen, Tabellen, Metrikdefinitionen
+  C. Artefakt-Vorlagen (Checklisten, Score-Sheets)
+  D. (Optional) Glossar
+
+Eigenständigkeitserklärung / Erklärung zur KI-Nutzung (falls gefordert)
