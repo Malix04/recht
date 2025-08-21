@@ -1,42 +1,12 @@
-Wasserfallmodell 
-
-Das Wasserfallmodell ist eines der Standard Modelle der Programmierung.43 Im Jahr 1970 von Royce definiert, stellt es ein einfach zu verstehendes, sowie anzuwendendes Modell zur Softwareentwicklung dar.44 Das Modell besteht dabei aus fünf Prozessschritten, die immer mit einem festen Ergebnis beendet werden.45 Es gibt beim Wasserfallmodell keine Rücksprünge in vorangegangene Abschnitte und auch keine Iterationen.46 Stattdessen wird die Software in einem Stück entwickelt, anschließend getestet und ausgeliefert. Es folgt dem Ansatz „define-before-design, design-before-code“.47 Das Wasserfallmodell deckt den gesamten Softwarelebenszyklus ab und fokussiert sich damit nicht ausschließlich auf die Entwicklung der Software, sondern bezieht auch die Anforderungsanalyse und die Wartung mit ein.48 
-
+Zur Beantwortung der Forschungsfrage werden qualitative halbstrukturierte Experteninterviews mit dem IT-Management und den Citizen-Developern durchgeführt. Im Folgenden wird die Methodik selbst und die Anwendung beschrieben. Zunächst einmal gilt es zu klären, was der Begriff Experte überhaupt bedeutet und wer in dieser Arbeit als Experte angesehen wird. Ein Experte wird in dieser Arbeit als eine Person verstanden, die durch praktische Erfahrung über spezialisiertes Wissen zum untersuchten Phänomen verfügt. . Im vorliegenden Kontext wird den ausgewählten Experten unterstellt, dass sie besonderes Wissen zur Beantwortung der Forschungsfrage besitzen. Die befragten Experten sind die bisher engagiertesten CitizenDeveloper im Unternehmen, weswegen davon auszugehen ist, dass sie die Realität im Unternehmen am besten wiedergeben können. Der Gegenstand der empirischen Sozialforschung ist menschliches Handeln. Das Ziel der Forschung ist menschliches Handeln abzubilden und die Ursachen zu erklären, die zu dem Handeln geführt haben . In diesem Fall sollen durch das Abbilden des Handelns der Citizen-Developer Problemräume identifiziert werden, die als Faktoren bezeichnet werden können, die ein bestimmtes Handeln hervorbringen. Die Ergebnisse beruhen bei der qualitativen Forschung auf der Interpretation des Forschenden. Bei jeder Forschung wird neues Wissen produziert und in den gemeinsamen Wissenskorpus eingefügt, wenn die Forschung veröffentlicht wird. Um sicherzustellen, dass das Wissen auch gewissenhaft produziert wird und verlässlich ist, muss dargelegt werden, wie das Wissen generiert wurde, damit andere Forschende es nachvollziehen können . Aus dieser Forderung werden drei methodologische Prinzipien abgeleitet, die für alle Wissenschaftsfelder gelten. Das Prinzip der Offenheit bedeutet, dass der Forschende offen sein muss für unerwartete Veränderungen in seinem Forschungsprozess. In der vorliegenden Arbeit wurden theoretische Konzepte erarbeitet, die wesentliche Aspekte des Gegenstandes nicht erfasst haben könnten. Diese Erkenntnis sollte der Forscher immer im Blick haben, um beobachtete Aspekte nicht zu schnell in bisher aus der Theorie erarbeitete Kategorien einzuordnen. Das Prinzip des theoriegeleiteten Vorgehens bedeutet, dass an bereits vorhandenes Wissen des Untersuchungsgegenstands angeknüpft werden muss, da nur so zu diesem Wissen beigetragen werden kann. Das Prinzip des regelgeleiteten Vorgehens bedeutet, dass die Wissenserarbeitung bestimmten Regeln folgen muss, die explizit, intersubjektiv und nicht willkürlich sind. Andere Wissenschaftler müssen den Weg, der zu den Erkenntnissen geführt hat, rekonstruieren können. Dieses Prinzip ist die Grundlage für das Vertrauen in die Ergebnisse anderer Wissenschaftler. Es sollten alle Schritte angegeben werden, die durchgeführt wurden, von der Forschungsfrage, bis hin 
+  
+zur Antwort. In der Sozialforschung lässt sich neben diesen drei allgemeinen Wissenschaftsprinzipien noch eine weitere Prämisse ableiten. Menschen handeln auf Basis von Bedeutungen, denen sie ihrer Umwelt zuweisen. Das bedeutet, dass alles, was erforscht wird, von einer situationsabhängigen Interpretation abhängt, sogar der Forschungsprozess selbst. Der Forschende sollte sich diesen Prinzipien bewusst sein. .  
  
+3.1	Experteninterviews 
+Experteninterviews und auch die qualitative Inhaltsanalyse sind Methoden aus der qualitativen Forschung, die zu den rekonstruierenden Untersuchungen gehören. Dadurch ergibt sich ein Mechanismus orientierte Erklärungsstrategie, die kausale Prozesse und Wirkmechanismen untersucht . Es gibt unterschiedliche Arten von Interviews, die jeweils eine andere Methode haben. Dabei haben alle Verfahren gemeinsam, dass die Forschungsfragen in viele weitere Fragen übersetzt wird, um bestimmte Sachverhalte zu rekonstruieren. Die Antworten auf diese Fragen bilden die Datengrundlage, die einer Auswertung mit einer bestimmten Methode unterzogen werden können . Experteninterviews zielen darauf ab, das Wissen erfahrener Personen zu einem spezifischen Thema systematisch zu erfassen. Dadurch werden Handlungen, Beobachtungen und Wissen der Befragten zum Gegenstand des Interviews. Bei Experteninterviews wird ein nichtstandardisiertes Vorgehen z.B. mit einem Leitfaden angewendet, da das Wissen des Experten noch nicht bekannt ist und der Forscher bei der Befragung deswegen flexibel sein muss . Es ist wichtig einige Vorgaben einzuhalten, um die Menschen, die befragt werden, korrekt zu behandeln. Insbesondere, da sie sich freiwillig an der Befragung beteiligen sollte der Forscher verantwortungsvoll damit umgehen. Deshalb darf dem Befragten unter keinen Umständen ein Schaden aus der Teilnahme entstehen. Außerdem muss der Befragte anonym bleiben und die Datenschutzgesetze müssen eingehalten werden . 
+Vor der Durchführung von Experteninterviews stehen einige strategische und theoretische Vorüberlegungen an, um zu verstehen, was herausgefunden werden soll und wie es herausgefunden werden soll. Dadurch kann die Qualität der empirischen Forschung sichergestellt werden . Als erstes muss eine Untersuchungsfrage aufgestellt werden. Daraus kann abgeleitet werden welche Daten erhoben werden sollen und welche nicht. Alle Daten, die zur Beantwortung der Untersuchungsfrage dienen, sollten erhoben werden und alle Daten, die nicht 
+  
+dazu dienen, sollten nicht erhoben werden . Von der Untersuchungsfrage und der Forschungsfrage kann die angewendete Erklärungsstrategie abgeleitet werden . Anschließend sollte der aktuelle Forschungsstand aufgearbeitet werden. Das bedeutet alles relevante Wissen zu dem zu untersuchenden Phänomen zusammenzutragen. Das ist notwendig, da die Forschungsfrage eine Lücke in diesem Wissen füllen muss. Ohne den aktuellen Forschungsstand kann also nicht sichergestellt werden, dass diese Lücke existiert. Auf Basis des Forschungsstandes kann ein Erkenntnissinteresse beschrieben werden und Leitfragen formuliert werden, aus denen der Interviewleitfragen entwickelt wird . Nach den Interviews steht die Auswahl der Auswertungsmethode zwischen Kodierung und qualitativer Inhaltsanalyse an, da eine freie Interpretation nicht die nötige Strenge besitzt, die aber gefordert wird, um einen Beitrag für die Wissenschaft zu generieren. 
  
-
-Abb. 3: Wasserfallmodell49 
-
- 
-
-Den ersten Prozessschritt stellt die Anforderungsanalyse dar. Es werden die Anforderungen gesammelt, analysiert und dokumentiert. Außerdem wird das gewünschte Systemverhalten beschrieben. Die für diesen Prozessschritt benötigten Informationen werden vom Kunden vorgegeben.50 
-
-Der zweite Schritt ist die Erstellung des Entwurfes. Auf Basis der in der Anforderungsanalyse gesammelten Informationen wird ein Entwurf erstellt der die Software Architektur, die Datenbankstruktur und die Programmiersprache bestimmt. Die Funktionalität der Software wird definiert.51 
-
-Die tatsächliche Implementation der Software stellt Schritt drei dar. Es wird der zuvor erstellte Entwurf in Code umgesetzt.52 
-
-Beim Testen geht es darum zu prüfen, ob die Funktionalität der entstandenen Software den zu Beginn definierten Anforderungen entspricht. Außerdem geht es darum Fehler im Code zu finden und zu beheben.53 
-
-Der letzte Schritt des Wasserfallmodells ist die Wartung. Nachdem die Software veröffentlicht wurde, beziehungsweise dem Kunden übergeben wurde, gibt es weiterhin Bedarf nach Modifikationen und der Behebung von Fehlern, die erst im laufenden Betrieb der Software aufgefallen sind.54 
-
-Im Folgenden sind die Vor- und Nachteile des Wasserfallmodells dargestellt.  
-
-Vorteile 
-
-Nachteile 
-
-Sehr einfach umzusetzen 
-
-Zu einfach für komplexe Softwareprojekte 
-
-Die Prozessschritte sind klar definiert 
-
-Kein Feedback möglich, möglicherweise entspricht die Software nicht den Wünschen des Kunden, dies wird jedoch erst am Schluss bemerkt  
-
-Gut geeignet für Projekte mit klarem Ziel 
-
-Fehler werden erst am Ende erkannt 
-
-Tab. 3: Vor- und Nachteile Wasserfallmodell55 
-
- 
+3.2	Erkenntnissinteresse und Leitfragen 
+Die in Kapitel 2 dargestellten allgemeinen Voraussetzungen für erfolgreiches Citizen-Development geben Anhaltspunkte, was im Unternehmen umgesetzt werden muss, damit die Initiative erfolgreich ist und wo die potenziellen Probleme liegen können. Sie dienen als Basis für die Entwicklung des Interviewleitfadens, indem sie Anhaltspunkte geben, welche Mechanismen im Unternehmen etabliert werden müssen. Die Mechanismen, die als Basis für den Interviewleitfaden dienen, das Erkenntnisinteresse und die jeweilige Leitfrage, werden im Folgenden dargestellt. Zunächst gilt es klarzustellen, dass die Hypothesen aus der Literatur nicht falsifiziert werden sollen, sondern als Anregung zum Entdecken des Informationsbedarfs dienen sollen. Es ist sehr wahrscheinlich, dass die Ergebnisse der Forschungsarbeiten, die für diese Arbeit verwendet wurden, sehr kontextabhängig sind und die Mechanismen nicht so auf jedes Unternehmen angewendet werden können. Deswegen dienen sie lediglich als Erkenntnisanregung. Daraus werden die aktuelle Realität, Probleme und mögliche Lösungsansätze in diesem spezifischen Fall Mithilfe von Experteninterviews abgeleitet. Die Mechanismen aus der Theorie werden folgend allgemein angenommen, aber das Ziel ist es die Probleme bei Müller – die lila Logistik im Speziellen zu entdecken und explorativ zu arbeiten. Aus dem Informationsbedarf werden mehrere Fragen abgeleitet, die dann die Leitfragen für den Interviewleitfaden werden sollen. Außerdem soll das Interview offen für neue noch nicht gesehen Erkenntnisse sein, was eine Falsifizierung von vorneherein ausschließt. 
