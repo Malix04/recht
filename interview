@@ -1,0 +1,42 @@
+Wasserfallmodell 
+
+Das Wasserfallmodell ist eines der Standard Modelle der Programmierung.43 Im Jahr 1970 von Royce definiert, stellt es ein einfach zu verstehendes, sowie anzuwendendes Modell zur Softwareentwicklung dar.44 Das Modell besteht dabei aus fünf Prozessschritten, die immer mit einem festen Ergebnis beendet werden.45 Es gibt beim Wasserfallmodell keine Rücksprünge in vorangegangene Abschnitte und auch keine Iterationen.46 Stattdessen wird die Software in einem Stück entwickelt, anschließend getestet und ausgeliefert. Es folgt dem Ansatz „define-before-design, design-before-code“.47 Das Wasserfallmodell deckt den gesamten Softwarelebenszyklus ab und fokussiert sich damit nicht ausschließlich auf die Entwicklung der Software, sondern bezieht auch die Anforderungsanalyse und die Wartung mit ein.48 
+
+ 
+ 
+
+Abb. 3: Wasserfallmodell49 
+
+ 
+
+Den ersten Prozessschritt stellt die Anforderungsanalyse dar. Es werden die Anforderungen gesammelt, analysiert und dokumentiert. Außerdem wird das gewünschte Systemverhalten beschrieben. Die für diesen Prozessschritt benötigten Informationen werden vom Kunden vorgegeben.50 
+
+Der zweite Schritt ist die Erstellung des Entwurfes. Auf Basis der in der Anforderungsanalyse gesammelten Informationen wird ein Entwurf erstellt der die Software Architektur, die Datenbankstruktur und die Programmiersprache bestimmt. Die Funktionalität der Software wird definiert.51 
+
+Die tatsächliche Implementation der Software stellt Schritt drei dar. Es wird der zuvor erstellte Entwurf in Code umgesetzt.52 
+
+Beim Testen geht es darum zu prüfen, ob die Funktionalität der entstandenen Software den zu Beginn definierten Anforderungen entspricht. Außerdem geht es darum Fehler im Code zu finden und zu beheben.53 
+
+Der letzte Schritt des Wasserfallmodells ist die Wartung. Nachdem die Software veröffentlicht wurde, beziehungsweise dem Kunden übergeben wurde, gibt es weiterhin Bedarf nach Modifikationen und der Behebung von Fehlern, die erst im laufenden Betrieb der Software aufgefallen sind.54 
+
+Im Folgenden sind die Vor- und Nachteile des Wasserfallmodells dargestellt.  
+
+Vorteile 
+
+Nachteile 
+
+Sehr einfach umzusetzen 
+
+Zu einfach für komplexe Softwareprojekte 
+
+Die Prozessschritte sind klar definiert 
+
+Kein Feedback möglich, möglicherweise entspricht die Software nicht den Wünschen des Kunden, dies wird jedoch erst am Schluss bemerkt  
+
+Gut geeignet für Projekte mit klarem Ziel 
+
+Fehler werden erst am Ende erkannt 
+
+Tab. 3: Vor- und Nachteile Wasserfallmodell55 
+
+ 
