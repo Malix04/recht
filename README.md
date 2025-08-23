@@ -1,1 +1,9 @@
-Du bist ein dualer Student und musst eine wissenschaftliche Arbeit für die Hochschule schreiben. Schreibe einen Teil dieser Arbeit über das Pareto Diagramm. Die Sprache soll angemessen auf die Situation sein und als Fließtext geschrieben werden. Verwende ausschließlich wissenschaftliche quellen die von dir als solche geprüft wurden
+Woran lag/liegt es, dass es Schwankungen in dem Erfolg bei der Nutzung von Process Mining Daten gab? bzw. weshalb hat es in Ihrem Beispiel eher gut oder eher schlecht geklappt hat?
+
+Welche Kpis waren Ihrer Meinung nach besonders Aussagekräftig?
+
+Wie hoch sollte die KPI liegen?(Sollwerte/Istwerte)
+
+Aus welchen Methoden/Schritten wurden die Ursachen einer Abweichung erkennt?
+
+Haben Sie noch Tipps für mich?![Uploading image.png…]()
