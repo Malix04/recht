@@ -1,0 +1,87 @@
+2. Theoretische Grundlagen
+2.1 Zieldefinierung KPIs
+
+Key Performance Indicators (KPIs) sind zentrale Steuerungsinstrumente des Performance Managements. Sie dienen der Messung strategischer wie operativer Zielerreichung und stellen sicher, dass Abweichungen frühzeitig erkannt und korrigiert werden können.¹ Eine präzise Zieldefinition bildet den Grundstein für die Aussagekraft der Kennzahlen, da unscharfe oder unklare Zielgrößen keine verlässlichen Steuerungsimpulse liefern.²
+
+Als etabliertes Prinzip gilt die SMART-Formel: Ziele sollten spezifisch, messbar, attraktiv, realistisch und terminiert sein.³ Diese Kriterien garantieren, dass KPI-Werte eindeutig interpretierbar sind, motivierend wirken und innerhalb vorhandener Ressourcen erreichbar bleiben. Die Terminvorgabe verhindert zudem eine schleichende Entwertung der Indikatoren.
+
+In der Praxis erfolgt die Auswahl geeigneter KPIs im Einklang mit der Unternehmensstrategie. Während finanzielle, prozessuale und kundenorientierte Kennzahlen unterschiedliche Schwerpunkte setzen, empfiehlt die Balanced Scorecard einen balancierten Ansatz über mehrere Dimensionen.⁴ Ergänzend zeigt das Performance Prism, dass Stakeholder-Perspektiven stärker integriert werden müssen, um eine ganzheitliche Steuerung sicherzustellen.⁵
+
+KPIs sind nicht statisch, sondern Teil eines kontinuierlichen Verbesserungsprozesses. Sie werden regelmäßig überprüft und an neue Markt- oder Unternehmensbedingungen angepasst. In diesem Zusammenhang spielt auch das Qualitätsmanagement (z. B. ISO 9001) eine Rolle, das Kennzahlen als integralen Bestandteil des PDCA-Zyklus versteht.⁶
+
+2.2 Abweichungsanalyse
+
+Die Abweichungsanalyse – häufig in Form von Soll-Ist-Vergleichen – bildet die methodische Grundlage zur Identifikation von Optimierungspotenzialen in Geschäftsprozessen.⁷ Dabei wird der aktuelle Zustand detailliert erfasst und einem definierten Soll-Zustand gegenübergestellt. Diese Gegenüberstellung offenbart Lücken, die systematisch analysiert und priorisiert werden.
+
+Die Ist-Analyse erfolgt auf Basis von Organisationsdokumenten, IT-Systemprotokollen oder Interviews mit Fachpersonal.⁸ Ziel ist ein objektives Abbild der Realität, das als Grundlage für die Modellierung des Soll-Zustands dient. Dieser wird mithilfe standardisierter Modellierungssprachen wie BPMN formal beschrieben und unterstützt die Kommunikation zwischen Stakeholdern.⁹
+
+Der Soll-Ist-Vergleich (auch Gap-Analyse) priorisiert Abweichungen anhand von Kriterien wie Dringlichkeit, Komplexität oder Nutzenpotenzial.¹⁰ Gerade in Transformationsprojekten ist diese Methode unverzichtbar, um Investitionen in IT-Systeme und Prozesse zu rechtfertigen und die Akzeptanz der Beteiligten zu erhöhen.
+
+Gleichzeitig weist die Literatur auf Herausforderungen hin: Datenlücken, heterogene Systemlandschaften und kulturelle Widerstände können die Analyse erschweren.¹¹ Nur durch interdisziplinäre Projektteams, iterative Vorgehensweisen und transparente Kommunikation kann die Abweichungsanalyse ihr volles Potenzial entfalten.
+
+2.3 Ursachenforschung
+5-Why-Methode
+
+Die 5-Why-Methode wurde im Toyota-Produktionssystem entwickelt und dient dazu, durch wiederholtes Nachfragen nach dem „Warum?“ von oberflächlichen Symptomen zu tieferliegenden Ursachen vorzudringen.¹² In der Regel reichen fünf Wiederholungen aus, um die Grundursache eines Problems zu identifizieren. Praktisch wird der Analyseprozess in interdisziplinären Teams durchgeführt, die ihre Antworten sequenziell dokumentieren.¹³
+
+Die Methode überzeugt durch Einfachheit und schnelle Anwendbarkeit. Nachteile bestehen darin, dass ohne erfahrene Moderation Ursachenketten vorschnell abgebrochen werden können.¹⁴ Deshalb wird empfohlen, die 5-Why-Technik mit anderen Methoden – etwa dem Ishikawa-Diagramm – zu kombinieren.
+
+Fishbone-Diagramm
+
+Das Fishbone-Diagramm, auch als Ishikawa- oder Ursache-Wirkungs-Diagramm bekannt, wurde in den 1960er Jahren entwickelt und zählt zu den „Sieben Qualitätstechniken“.¹⁵ Die visuelle Darstellung ähnelt einem Fischskelett, wobei die Hauptursachen in Kategorien wie Mensch, Maschine, Material, Methode, Milieu und Messung (6M) geordnet werden.
+
+Seine Stärke liegt in der strukturierten und interdisziplinären Ursachenfindung. Typischerweise werden Brainstormings genutzt, um mögliche Faktoren zu sammeln und den Kategorien zuzuordnen.¹⁶ Studien zeigen, dass die Methode nicht nur Ursachen aufdeckt, sondern auch Teamkommunikation und systematisches Denken fördert.¹⁷
+
+Pareto-Diagramm
+
+Das Pareto-Diagramm ist ein zentrales Werkzeug der Qualitäts- und Prozessanalyse. Es ordnet Ursachen absteigend nach ihrem Beitrag und visualisiert diese mit Balkendiagramm und kumulativer Kurve.¹⁸ Grundlage ist das Pareto-Prinzip, wonach wenige Ursachen für den Großteil der Probleme verantwortlich sind (80/20-Regel).¹⁹
+
+Der Ablauf umfasst die Definition von Kategorien, die Erhebung und Bereinigung von Daten sowie die Sortierung nach Wirkung. Anschließend wird eine kumulative Kurve eingezeichnet, die die wichtigsten Ursachen sichtbar macht.²⁰ In der Logistik können z. B. Verzögerungen, Rework oder SLA-Verstöße so priorisiert und anschließend mit Methoden wie 5-Why oder Ishikawa vertieft werden.²¹
+
+2.4 Auswirkungsbewertung
+Kosten-Nutzen-Analyse
+
+Die Kosten-Nutzen-Analyse (KNA) ist ein klassisches Verfahren der Entscheidungstheorie. Ziel ist es, sämtliche Kosten und Nutzen einer Maßnahme zu erfassen, zu monetarisieren und vergleichbar zu machen.²² Dabei werden nicht nur finanzielle Größen, sondern auch qualitative Effekte wie Prozessoptimierung oder Risikoreduktion berücksichtigt.²³
+
+Das methodische Vorgehen gliedert sich in: Definition der Alternativen, Identifikation der Kosten- und Nutzenkategorien, Monetarisierung, Diskontierung sowie Berechnung zentraler Kennzahlen (z. B. Nettonutzen oder Kosten-Nutzen-Verhältnis).²⁴ In der Logistik wird die KNA häufig für die Bewertung von Digitalisierungsprojekten genutzt.²⁵
+
+Kritisch wird angemerkt, dass Ergebnisse stark von Annahmen abhängen und nicht-monetäre Faktoren (z. B. Mitarbeiterzufriedenheit) schwer erfassbar sind.²⁶ Deshalb empfehlen viele Autor*innen eine Kombination mit ergänzenden Methoden wie Nutzwert- oder Risikoanalysen.
+
+FMEA
+
+Die Failure Mode and Effects Analysis (FMEA) ist ein systematisches Verfahren zur Identifikation und Bewertung potenzieller Fehlerquellen.²⁷ Ziel ist es, Risiken frühzeitig zu erkennen und präventive Maßnahmen einzuleiten. Dabei werden mögliche Fehlerarten, deren Ursachen und Auswirkungen erfasst und anhand von Kriterien wie Auftretenswahrscheinlichkeit, Bedeutung und Entdeckungswahrscheinlichkeit bewertet.²⁸
+
+Das Ergebnis wird in einer Risikoprioritätszahl (RPZ) zusammengeführt, die als Grundlage für Maßnahmenpläne dient. Besonders im Produkt- und Prozessmanagement gilt die FMEA als Standardmethode, da sie die Verknüpfung von technischer Analyse und organisatorischer Prävention ermöglicht.²⁹ Neuere Studien zeigen, dass die FMEA zunehmend auch in der Logistik und im IT-Kontext eingesetzt wird, etwa zur Risikobewertung bei Prozessdigitalisierung.³⁰
+
+📌 Fußnoten (Leviathan-Stil)
+
+1 Kaplan, Norton 1996, S. 21 ff.
+2 Neely, Adams, Kennerley 2002, S. 12–25.
+3 Doran 1981, S. 36.
+4 Kaplan, Norton 1996, S. 21 ff.
+5 Neely, Adams, Kennerley 2002, S. 12–25.
+6 Bourne, Kennerley, Franco 2002, S. 305 ff.
+7 Horváth 2011, S. 410–420.
+8 Becker, Kugeler, Rosemann 2013, S. 152 ff.
+9 Schmelzer, Sesselmann 2013, S. 220–230.
+10 Horváth 2011, S. 421–430.
+11 Becker, Kugeler, Rosemann 2013, S. 160 ff.
+12 Serrat 2009, S. 307.
+13 Liker 2004, S. 31 ff.
+14 Andersen, Fagerhaug 2006, S. 55.
+15 Ishikawa 1982, S. 65–70.
+16 Stamatis 2003, S. 52–55.
+17 Ishikawa 1982, S. 70.
+18 Montgomery 2013, S. 132–140.
+19 Juran, De Feo 2010, S. 124 ff.
+20 Montgomery 2013, S. 135.
+21 Juran, De Feo 2010, S. 125.
+22 Boardman et al. 2018, S. 3 ff.
+23 Hanley, Barbier 2009, S. 17 ff.
+24 Mishan, Quah 2020, S. 45 ff.
+25 Günther, Krcmar 2018, S. 25–37.
+26 Boardman et al. 2018, S. 22.
+27 Stamatis 2003, S. 45–70.
+28 Kreimeyer, Lindemann 2011, S. 270.
+29 Stamatis 2003, S. 66.
+30 Kreimeyer, Lindemann 2011, S. 280.
