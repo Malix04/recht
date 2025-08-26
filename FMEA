@@ -1,0 +1,15 @@
+Die Fehlermöglichkeits- und Einflussanalyse (FMEA) ist eine präventive Methode des Qualitätsmanagements, die systematisch potenzielle Fehler in Produkten, Prozessen oder Systemen identifiziert und bewertet. Ursprünglich in den 1940er Jahren in der US-amerikanischen Luft- und Raumfahrt entwickelt, hat sie sich seit den 1960er Jahren – insbesondere durch die Automobilindustrie – als international anerkannte Standardmethode etabliert (Stamatis 2003, S. 15). Ziel der FMEA ist es, Risiken bereits in frühen Entwicklungs- und Planungsphasen zu erkennen, deren Ursachen zu analysieren und durch präventive Maßnahmen zu minimieren.
+
+Das methodische Vorgehen erfolgt in mehreren Schritten. Zunächst werden die zu untersuchenden Prozesse oder Produkte strukturiert in Teilfunktionen zerlegt. Für jede Funktion werden potenzielle Fehlermöglichkeiten, deren Ursachen und Auswirkungen identifiziert. Anschließend werden diese Fehler nach drei Kriterien bewertet: Auftretenswahrscheinlichkeit, Bedeutung der Auswirkung und Entdeckungswahrscheinlichkeit. Durch Multiplikation dieser Werte entsteht die sogenannte Risiko-Prioritätszahl (RPZ), die eine Rangfolge der Risiken ermöglicht (AIAG/VDA 2019, S. 42). Hohe RPZ-Werte weisen auf besonders kritische Fehlermöglichkeiten hin, die vorrangig behandelt werden müssen.
+
+Ein wesentlicher Vorteil der FMEA liegt in ihrer präventiven Ausrichtung: Anstatt Fehler im Nachhinein zu korrigieren, werden sie bereits im Vorfeld systematisch vermieden. Darüber hinaus fördert die Methode die interdisziplinäre Zusammenarbeit, da die Bewertung typischerweise in Teams aus verschiedenen Fachbereichen erfolgt. Gleichwohl ist kritisch anzumerken, dass die Bewertungskriterien teilweise subjektiv geprägt sind und die RPZ nicht immer eine differenzierte Risikoabwägung zulässt (Liu et al. 2013, S. 812). Neuere Ansätze schlagen daher ergänzende Methoden wie Fuzzy-Logik oder multikriterielle Entscheidungsmodelle vor, um die Genauigkeit der Risikobewertung zu erhöhen.
+
+Im Kontext der Logistik und insbesondere von Process-Mining-Initiativen kann die FMEA genutzt werden, um die Auswirkungen identifizierter Abweichungen systematisch zu bewerten. So lassen sich nicht nur die häufigsten Ursachen (z. B. aus Pareto-Analysen), sondern auch deren potenzielle Folgen für Durchlaufzeiten, Kosten oder Servicelevel strukturieren und priorisieren. Damit stellt die FMEA ein wichtiges Bindeglied zwischen Ursachenanalyse und Maßnahmenplanung dar.
+
+Quellen (für Fußnoten im Leviathan-Stil):
+
+Stamatis, D. H. 2003. Failure Mode and Effect Analysis: FMEA from Theory to Execution. 2. Aufl. Milwaukee: ASQ Quality Press.
+
+AIAG/VDA 2019. FMEA-Handbuch. 1. Aufl. Detroit: Automotive Industry Action Group / Verband der Automobilindustrie.
+
+Liu, Hu-Chen; Liu, Li; Liu, Nan 2013. „Risk evaluation approaches in failure mode and effects analysis: A literature review“, in Expert Systems with Applications 40, 2, S. 828–838.
